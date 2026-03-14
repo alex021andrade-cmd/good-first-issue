@@ -33,3 +33,20 @@ Once your submission is reviewed and approved, it will be added to [goodfirstiss
 ## Contributing
 
 Want to contribute? See [CONTRIBUTING.md](CONTRIBUTING.md) for setup instructions and guidelines.
+## First Contribution Example
+
+This section was added as a simple contribution example for new open-source developers.
+
+Making your first contribution to open source can feel difficult at the beginning, but projects like **Good First Issue** exist to make the process easier.
+
+Steps to start contributing:
+
+1. Fork the repository
+2. Clone the project locally
+3. Create a new branch
+4. Make a small improvement
+5. Open a Pull Request
+
+Even small contributions like fixing typos, improving documentation, or suggesting ideas help the community grow.
+
+Happy coding! 🚀
